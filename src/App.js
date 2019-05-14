@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button } from 'attackerator-ui-kit';
+import { Button } from 'attackerator-ui-kit/dist';
 
 function App() {
   return (
